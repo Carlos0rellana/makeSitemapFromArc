@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+/config/
+/logs/
+
+# exepciones de archivos
+!/config/dataConection.php_example
