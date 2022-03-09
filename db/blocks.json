@@ -1,0 +1,828 @@
+{
+  "urlBase":"https://sitemap.metroworldnews.com",
+  "sites": {
+    "mwn": {
+      "siteProperties": {
+        "schemaLogo": "https://www.metroworldnews.com/resizer/UPZQ-shNPguSSmff5BMwVXhuFVE=/arc-photo-metroworldnews/arc2-prod/public/2G5RZ5Y4M5FBJMBZUGUAZ6UZEA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      }
+    },
+    "mwnargentina": {
+      "siteProperties": {
+        "websiteDomain": "https://publimetro.com.ar",
+        "websiteName": "Publimetro Argentina",
+        "primaryLogoAlt": "Publimetro Argentina",
+        "facebookPage": "https://www.facebook.com/publimetro.com.ar",
+        "fbPages": "169741159736092",
+        "twitterUsername": "PublimetroA",
+        "primaryLogo": "resources/img/logos/publimetro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/publimetro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "",
+        "gtmID": "GTM-TLDJJ65",
+        "websiteAdPath": "ARG/Metro",
+        "pushNotificationBlogId" : "publimetro_ar",
+        "taboolaPublisherId":"mediaresponsegroup-publimetrocomar",
+        "resizerURL": "https://www.publimetro.com.ar/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Guayaquil"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "dataIo" : "42816",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-publimetrocomar"
+        },
+        "schemaLogo": "https://publimetro.com.ar/resizer/nx3bF5j_4weRzrFJX6fvzXD3rE4=/arc-photo-metroworldnews/arc2-prod/public/K3SA6BOBAJARRHYLVIESC3FZOA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      }
+    },
+    "mwnbrasil": {
+      "siteProperties": {
+        "websiteDomain": "https://www.metroworldnews.com.br",
+        "websiteName": "Metro World News Brasil",
+        "primaryLogoAlt": "Metro World News Brasil",
+        "facebookPage": "https://www.facebook.com/metrojornal",
+        "fbPages": "169741159736092",
+        "twitterUsername": "MetroJornal",
+        "primaryLogo": "resources/img/logos/metro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/metro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "8013",
+        "gtmID": "GTM-TBXZ7PK",
+        "dfpSections": ["/foco","/social","/entretenimento","/estilo-vida","/comercial","/tecnologia"],
+        "websiteAdPath": "BRA/Metro",
+        "pushNotificationBlogId" : "publimetro_br",
+        "taboolaPublisherId":"mediaresponsegroup-brazil-metrojornal",
+        "resizerURL": "https://www.metroworldnews.com.br/resizer",
+        "advertisementLabel": "ANÚNCIO",
+        "locale":"pt",
+        "dateLocalization": {
+          "language":"en",
+          "timeZone": "America/Sao_Paulo",
+          "dateTimeFormat": "%d/%m/%Y - %H:%M",
+          "dateFormat": "%d/%m/%Y"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "dataIo" : "42756",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "8013",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-brazil-metrojornal"
+        },
+        "schemaLogo": "https://www.metroworldnews.com.br/resizer/UPZQ-shNPguSSmff5BMwVXhuFVE=/arc-photo-metroworldnews/arc2-prod/public/2G5RZ5Y4M5FBJMBZUGUAZ6UZEA.png",
+        "schemaDescription": "Confira notícias e vídeos mais recentes da sua cidade, do Brasil e do mundo, além de informações do cenário econômico, político, cultural e esportivos.",
+        "schemaPhone": "+551135288500",
+        "schemaAddress": "Rua Tabapuã 41, São Paulo",
+        "schemaPostalCode": "04533010",
+        "schemaCountry": "BR"
+      }
+    },
+    "mwnchile": {
+      "siteProperties": {
+        "websiteDomain": "https://www.publimetro.cl",
+        "websiteName": "Publimetro Chile",
+        "primaryLogoAlt": "Publimetro Chile",
+        "facebookPage": "https://www.facebook.com/publimetro",
+        "fbPages": "189079512572",
+        "twitterUsername": "PublimetroChile",
+        "primaryLogo": "resources/img/logos/publimetro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/publimetro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "6336",
+        "gtmID": "GTM-W2XXJMF",
+        "websiteAdPath": "CHI/Publimetro",
+        "pushNotificationBlogId" : "publimetro_cl",
+        "taboolaPublisherId":"mediaresponsegroup-network",
+        "resizerURL": "https://www.publimetro.cl/resizer",
+        "dfpSections": ["/noticias","/deportes","/entretenimiento","/estilo-vida","/comercial","/social","/tecnologia"],
+        "dateLocalization": {
+          "timeZone": "America/Santiago"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "dataIo" : "42751",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119362",
+          "amp_firstimpression" : "6336",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-publimetrocl"
+        },
+        "schemaLogo": "https://www.publimetro.cl/resizer/nx3bF5j_4weRzrFJX6fvzXD3rE4=/arc-photo-metroworldnews/arc2-prod/public/K3SA6BOBAJARRHYLVIESC3FZOA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+56224215900",
+        "schemaAddress": "Avenida Apoquindo 7935, Las Condes, Chile",
+        "schemaPostalCode": "7571514",
+        "schemaCountry": "CL"
+      }
+    },
+    "mwncolombia": {
+      "siteProperties": {
+        "websiteDomain": "https://www.publimetro.co",
+        "websiteName": "Publimetro Colombia",
+        "primaryLogoAlt": "Publimetro Colombia",
+        "facebookPage": "https://www.facebook.com/publimetrocolombia",
+        "fbPages": "255831954461384",
+        "twitterUsername": "PublimetroCol",
+        "primaryLogo": "resources/img/logos/publimetro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/publimetro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "6335",
+        "gtmID": "GTM-MQ5B9D3",
+        "websiteAdPath": "COL/Publimetro",
+        "pushNotificationBlogId" : "publimetro_co",
+        "taboolaPublisherId":"mediaresponsegroup-network",
+        "resizerURL": "https://www.publimetro.co/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Bogota"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "dataIo" : "42754",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "120891",
+          "amp_firstimpression" : "6335",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-publimetroco"
+        },
+        "schemaLogo": "https://www.publimetro.co/resizer/nx3bF5j_4weRzrFJX6fvzXD3rE4=/arc-photo-metroworldnews/arc2-prod/public/K3SA6BOBAJARRHYLVIESC3FZOA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+575082242",
+        "schemaAddress": "Calle 75 No. 5-88, Bogota, Colombia",
+        "schemaPostalCode": "110221",
+        "schemaCountry": "CO"
+      }
+    },
+    "mwnecuador": {
+      "siteProperties": {
+        "websiteDomain": "https://www.metroecuador.com.ec",
+        "websiteName": "Metro Ecuador",
+        "primaryLogoAlt": "Metro Ecuador",
+        "facebookPage": "https://www.facebook.com/diariometroecuador",
+        "fbPages": "124527150902663",
+        "twitterUsername": "MetroEcuador",
+        "primaryLogo": "resources/img/logos/metro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/metro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "6478",
+        "gtmID": "GTM-W9SQTFN",
+        "websiteAdPath": "ECU/MetroEcuador",
+        "pushNotificationBlogId" : "publimetro_ec",
+        "taboolaPublisherId":"mediaresponsegroup-network",
+        "resizerURL": "https://www.metroecuador.com.ec/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Guayaquil"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "dataIo" : "42755",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119357",
+          "amp_firstimpression" : "6478",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-metroecuadorcomec"
+        },
+        "schemaLogo": "https://www.metroecuador.com.ec/resizer/UPZQ-shNPguSSmff5BMwVXhuFVE=/arc-photo-metroworldnews/arc2-prod/public/2G5RZ5Y4M5FBJMBZUGUAZ6UZEA.png",
+        "schemaDescription": "Las últimas noticias y entretención de Quito, Cuenca, Guayaquil y el resto del mundo en Metro, la red de medios más grande.",
+        "schemaPhone": "+59322449840",
+        "schemaAddress": "Av. Amazonas N33-215 y Alemania, edificio Skorpios piso 2, Quito",
+        "schemaPostalCode": "170507",
+        "schemaCountry": "EC"
+      }
+    },
+    "mwnmexico": {
+      "siteProperties": {
+        "websiteDomain": "https://www.publimetro.com.mx",
+        "websiteName": "Publimetro México",
+        "primaryLogoAlt": "Publimetro México",
+        "facebookPage": "https://www.facebook.com/publimetromx",
+        "fbPages": "111367450125",
+        "twitterUsername": "PublimetroMX",
+        "primaryLogo": "resources/img/logos/publimetro_dark-bg2.svg",
+        "lightBackgroundLogo": "resources/img/logos/publimetro_light-bg2.svg",
+        "primaryColor": "#32692D",
+        "firstImpressionId": "",
+        "gtmID": "GTM-KWXW9T2",
+        "websiteAdPath": "mex/Publimetro",
+        "pushNotificationBlogId" : "publimetro_mx",
+        "taboolaPublisherId":"publimetromexico",
+        "resizerURL": "https://www.publimetro.com.mx/resizer",
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "22643736360",
+        "dataIo" : "42752",
+        "dfpSections": ["/noticias","/deportes","/entretenimiento","/estilo-vida","/comercial","/publisport","/plus","/estados","/autosrpm","/tecnologia"],
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "120526",
+          "amp_firstimpression" : "6334",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"publimetromexico"
+        },
+        "schemaLogo": "https://www.publimetro.com.mx/resizer/nx3bF5j_4weRzrFJX6fvzXD3rE4=/arc-photo-metroworldnews/arc2-prod/public/K3SA6BOBAJARRHYLVIESC3FZOA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      },
+      "styleProperties": {
+        "primary-color": "#32692D"
+      }
+    },
+    "mwnperu": {
+      "siteProperties": {
+        "websiteDomain": "https://www.publimetro.pe",
+        "websiteName": "Publimetro Perú",
+        "primaryLogoAlt": "Publimetro Perú",
+        "facebookPage": "https://www.facebook.com/publimetrope",
+        "fbPages": "174837395908068",
+        "twitterUsername": "publimetrope",
+        "primaryLogo": "resources/img/logos/publimetro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/publimetro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "7017",
+        "gtmID": "GTM-KFBD8T5",
+        "dataIo" : "42816",
+        "websiteAdPath": "PER/Metro",
+        "pushNotificationBlogId" : "publimetro_pe",
+        "taboolaPublisherId":"mediaresponsegroup-publimetrope",
+        "resizerURL": "https://www.publimetro.pe/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Lima"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119356",
+          "amp_firstimpression" : "7017",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-publimetrope"
+        },
+        "schemaLogo": "https://www.publimetro.pe/resizer/nx3bF5j_4weRzrFJX6fvzXD3rE4=/arc-photo-metroworldnews/arc2-prod/public/K3SA6BOBAJARRHYLVIESC3FZOA.png",
+        "schemaDescription": "Las últimas noticias y entretención en Publimetro, la red de medios más grande del mundo.",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      }
+    },
+    "mwnpuertorico": {
+      "siteProperties": {
+        "websiteDomain": "https://www.metro.pr",
+        "websiteName": "Metro Puerto Rico",
+        "primaryLogoAlt": "Metro Puerto Rico",
+        "facebookPage": "https://www.facebook.com/MetroPR",
+        "fbPages": "255831954461384",
+        "twitterUsername": "Metro_PR",
+        "primaryLogo": "resources/img/logos/metro_dark-bg.svg",
+        "lightBackgroundLogo": "resources/img/logos/metro_light-bg.svg",
+        "primaryColor": "",
+        "firstImpressionId": "",
+        "gtmID": "GTM-PBWJTW3",
+        "websiteAdPath": "PRI/Metro",
+        "pushNotificationBlogId" : "publimetro_pr",
+        "resizerURL": "https://www.metro.pr/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Puerto_Rico"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dataIo" : "42753",
+        "dfpSections": ["/noticias","/deportes","/entretenimiento","/estilo-vida","/comercial","/opinion","/metrotv","/metro-negocios"],
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119360",
+          "amp_firstimpression" : "7458",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":""
+        },
+        "schemaLogo": "https://www.metro.pr/resizer/UPZQ-shNPguSSmff5BMwVXhuFVE=/arc-photo-metroworldnews/arc2-prod/public/2G5RZ5Y4M5FBJMBZUGUAZ6UZEA.png",
+        "schemaDescription": "Las últimas noticias y Entretenimiento en Metro, la red de medios más grande del mundo.",
+        "schemaPhone": "(787)705-0920",
+        "schemaAddress": "Suite 305 Edificio Administración de Terrenos Ave. Chardón #171 San Juan, Puerto Rico 00918",
+        "schemaPostalCode": "00970-1187",
+        "schemaCountry": "PR"
+      }
+    },
+    "activo": {
+      "siteProperties": {
+        "websiteDomain": "https://www.activopr.com",
+        "websiteName": "Activo",
+        "primaryLogoAlt": "Activo",
+        "facebookPage": "https://www.facebook.com/ActivoPR",
+        "fbPages": "157999454248484",
+        "twitterUsername": "activo_pr",
+        "primaryLogo": "resources/dist/activo/img/activo_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/activo/img/activo_light-bg.svg",
+        "primaryColor": "#58187D",
+        "firstImpressionId": "",
+        "gtmID": "GTM-TFJTJHM",
+        "websiteAdPath": "PRI/Activo",
+        "pushNotificationBlogId" : "publimetro_activo",
+        "resizerURL": "https://www.activopr.com/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Puerto_Rico"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dataIo" : "42753",
+        "dfpSections": ["/activate","/cuidate","/enterate","/hazlo-tu","/comercial","/voces-activas"],
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-publimetrope"
+        },
+        "schemaLogo": "https://www.activopr.com/resizer/780JD6RMmeyRA-lKGFulWD6-jpM=/arc-photo-metroworldnews/arc2-prod/public/DKKUDVMLFNFPHJKILCIGIB4NY4.png",
+        "schemaDescription": "Portal con noticias e información útil para una comunidad que sigue activa y que está al tanto de la tecnología, el cuidado de su salud, la diversión y el ejercicio.",
+        "schemaPhone": "(787)705-0920",
+        "schemaAddress": "Suite 305 Edificio Administración de Terrenos Ave. Chardón #171 San Juan, Puerto Rico 00918",
+        "schemaPostalCode": "00970-1187",
+        "schemaCountry": "PR"
+      },
+      "styleProperties": {
+        "primary-color": "#58187D"
+      }
+    },
+    "comutricolor": {
+      "siteProperties": {
+        "websiteDomain": "https://www.comutricolor.com",
+        "websiteName": "ComuTricolor",
+        "primaryLogoAlt": "ComuTricolor",
+        "facebookPage": "https://www.facebook.com/Comutricolorco",
+        "fbPages": "559696544174611",
+        "twitterUsername": "comutricolor",
+        "primaryLogo": "resources/dist/comutricolor/img/comutricolor_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/comutricolor/img/comutricolor_light-bg.svg",
+        "primaryColor": "#be1622",
+        "firstImpressionId": "",
+        "gtmID": "GTM-5XJ8H42",
+        "dataIo" : "42754",
+        "dfpSections": ["/seleccion-colombia","/colombianos-en-el-exterior","/futbol-colombiano","/jugada-mundial","/concursos","/en-los-medios","/comercial"],
+        "websiteAdPath": "COL/Comutricolor",
+        "pushNotificationBlogId" : "publimetro_ct",
+        "resizerURL": "https://www.comutricolor.com/resizer",
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "120919",
+          "amp_firstimpression" : "",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":""
+        },
+        "schemaLogo": "https://www.comutricolor.com/resizer/NR9sMH2GGOcgj0mEL3yLdFZs6Cs=/arc-photo-metroworldnews/arc2-prod/public/EDDJDHHGHJD5PFPSYF54WCC67M.png",
+        "schemaDescription": "Somos la comunidad #1 de hinchas para hinchas de la Selección Colombia. Compartimos las mejores noticias sobre fútbol colombiano, mundial y los nuestros en el exterior desde el 24/04/08",
+        "schemaPhone": "+575082242",
+        "schemaAddress": "Calle 75 No. 5-88, Bogota, Colombia",
+        "schemaPostalCode": "110221",
+        "schemaCountry": "CO"
+      },
+      "styleProperties": {
+        "primary-color": "#be1622"
+      }
+    },
+    "elcalce": {
+      "siteProperties": {
+        "websiteDomain": "https://www.elcalce.com",
+        "websiteName": "El Calce",
+        "primaryLogoAlt": "El Calce",
+        "facebookPage": "https://www.facebook.com/ElCalce?fref=ts",
+        "fbPages": "559696544174611",
+        "twitterUsername": "elcalcePR",
+        "primaryLogo": "resources/dist/elcalce/img/elcalce_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/elcalce/img/elcalce_light-bg.svg",
+        "primaryColor": "#F73520",
+        "firstImpressionId": "",
+        "gtmID": "GTM-K3TSDZ2",
+        "dataIo" : "42753",
+        "websiteAdPath": "PRI/ElCalce",
+        "resizerURL": "https://www.elcalce.com/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Puerto_Rico"
+        },
+        "pushNotificationBlogId" : "publimetro_cc",
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpSections": ["/contexto","/jarana","/tendencias","/deportes","/comercial","/quizzes"],
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "8033",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":""
+        },
+        "schemaLogo": "https://www.elcalce.com/resizer/JwCohzPFNPYxsBRJpR8lTHZaoh8=/arc-photo-metroworldnews/arc2-prod/public/UQEROAZCHJAEVMAC7QCEVGWAWM.png",
+        "schemaDescription": "Entretención en tu idioma y a tu medida. Comenta & comparte.",
+        "schemaPhone": "(787)705-0920",
+        "schemaAddress": "Suite 305 Edificio Administración de Terrenos Ave. Chardón #171 San Juan, Puerto Rico 00918",
+        "schemaPostalCode": "00970-1187",
+        "schemaCountry": "PR"
+      },
+      "styleProperties": {
+        "primary-color": "#F73520"
+      }
+    },
+    "fayerwayer": {
+      "siteProperties": {
+        "websiteDomain": "https://www.fayerwayer.com",
+        "websiteName": "FayerWayer",
+        "primaryLogoAlt": "FayerWayer",
+        "facebookPage": "https://www.facebook.com/fayerwayer",
+        "fbPages": "6054184526",
+        "twitterUsername": "fayerwayer",
+        "primaryLogo": "resources/dist/fayerwayer/img/fayerwayer_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/fayerwayer/img/fayerwayer_light-bg.svg",
+        "primaryColor": "#ff3200",
+        "firstImpressionId": "6771",
+        "gtmID": "GTM-NM75HST",
+        "dataIo" : "42757",
+        "websiteAdPath": "Regional/Fayerwayer",
+        "pushNotificationBlogId" : "publimetro_fw",
+        "taboolaPublisherId":"mediaresponsegroup-fayerwayer",
+        "resizerURL": "https://www.fayerwayer.com/resizer",
+        "dfpSections": ["/home","/moviles","/sneakers","/ciencia","/entretenimiento","/comercial"],
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119358",
+          "amp_firstimpression" : "6771",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-fayerwayer"
+        },
+        "schemaLogo": "https://www.fayerwayer.com/resizer/r8-EQ7ppv22itLBUSexT1ClEwrQ=/arc-photo-metroworldnews/arc2-prod/public/UQMJAJ6FU5GTLJG7C4ZR7WOQCY.png",
+        "schemaDescription": "Dosis diarias de tecnología en español.™",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      },
+      "styleProperties": {
+        "primary-color": "#ff3200"
+      }
+    },
+    "ferplei": {
+      "siteProperties": {
+        "websiteDomain": "https://ferplei.com",
+        "websiteName": "Ferplei",
+        "primaryLogoAlt": "Ferplei",
+        "facebookPage": "https://www.facebook.com/ferplei",
+        "fbPages": "189079512572",
+        "primaryLogo": "resources/dist/ferplei/img/ferplei_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/ferplei/img/ferplei_light-bg.svg",
+        "primaryColor": "#721B80",
+        "firstImpressionId": "",
+        "gtmID": "GTM-PJVVCVN",
+        "dataIo" : "42816",
+        "websiteAdPath": "CHI/Ferplei",
+        "pushNotificationBlogId" : "ferplei",
+        "dfpSections": ["/noticias","/deportes","/entretenimiento","/estilo-vida","/comercial","/tecnologia"],
+        "resizerURL": "https://www.ferplei.com/resizer",
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":""
+        },
+        "schemaLogo": "https://ferplei.com/resizer/2UzALvzhV_PXrZls44Vz554Gg24=/arc-photo-metroworldnews/arc2-prod/public/O5GW54SLVNCK7OCMYKU6DKLOV4.png",
+        "schemaDescription": "Noticias, Deportes y Espectáculo en un sólo lugar. Todo lo que necesitas para estar informado.",
+        "schemaPhone": "+56224215900",
+        "schemaAddress": "Avenida Apoquindo 7935, Las Condes, Chile",
+        "schemaPostalCode": "7571514",
+        "schemaCountry": "CL"
+      },
+      "styleProperties": {
+        "primary-color": "#721B80"
+      }
+    },
+    "nuevamujer": {
+      "siteProperties": {
+        "websiteDomain": "https://www.nuevamujer.com",
+        "websiteName": "Nueva Mujer",
+        "primaryLogoAlt": "Nueva Mujer",
+        "facebookPage": "https://www.facebook.com/nuevamujerlatam",
+        "fbPages": "1488223921481509",
+        "twitterUsername": "NuevaMujer",
+        "primaryLogo": "resources/dist/nuevamujer/img/nuevamujer_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/nuevamujer/img/nuevamujer_light-bg.svg",
+        "primaryColor": "#4abfbf",
+        "firstImpressionId": "6339",
+        "gtmID": "GTM-WRTTJJF",
+        "dataIo" : "42715",
+        "dfpSections": ["/espectaculos","/lifestyle","/wellness","/moda-belleza","/comercial"],
+        "websiteAdPath": "Regional/NuevaMujer",
+        "pushNotificationBlogId" : "publimetro_nmlatam",
+        "resizerURL": "https://www.nuevamujer.com/resizer",
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "119361",
+          "amp_firstimpression" : "6339",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-nuevamujer"
+        },
+        "schemaLogo": "https://www.nuevamujer.com/resizer/5NBHuOSMGj7jK8u89XbFhVOQjNA=/arc-photo-metroworldnews/arc2-prod/public/F7JI7L4PHBGYTCTYISYR4QCQN4.png",
+        "schemaDescription": "El sitio que inspira a la Nueva Mujer: noticias, horóscopo, belleza, moda, entretenimiento, pareja y más. ",
+        "schemaPhone": "+525553400700",
+        "schemaAddress": "Insurgentes Sur, 716, piso 10, colonia Del Valle, Alcaldía Benito Juárez, Cuidad de México",
+        "schemaPostalCode": "03100",
+        "schemaCountry": "MX"
+      },
+      "styleProperties": {
+        "primary-color": "#4abfbf"
+      }
+    },
+    "novamulher": {
+      "siteProperties": {
+        "websiteDomain": "https://www.novamulher.com",
+        "websiteName": "Nova Mulher",
+        "primaryLogoAlt": "Nova Mulher",
+        "facebookPage": "https://www.facebook.com/novamulher.br",
+        "fbPages": "1908312649253336",
+        "twitterUsername": "NovaMulher1",
+        "primaryLogo": "resources/dist/novamulher/img/novamulher_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/novamulher/img/novamulher_light-bg.svg",
+        "primaryColor": "#4abfbf",
+        "firstImpressionId": "",
+        "gtmID": "GTM-NMQN9RC",
+        "dataIo" : "42756",
+        "websiteAdPath": "BRA/NovaMulher",
+        "pushNotificationBlogId" : "publimetro_nmbr",
+        "taboolaPublisherId":"mediaresponsegroup-novamulher",
+        "resizerURL": "https://www.novamulher.com/resizer",
+        "dfpSections": ["/beleza","/estilo-de-vida","/entretenimento","/noticias","/comercial"],
+        "advertisementLabel": "ANÚNCIO",
+        "locale":"pt",
+        "dateLocalization": {
+          "language":"en",
+          "timeZone": "America/Sao_Paulo",
+          "dateTimeFormat": "%d/%m/%Y - %H:%M",
+          "dateFormat": "%d/%m/%Y"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":"mediaresponsegroup-novamulher"
+        },
+        "schemaLogo": "https://www.nuevamujer.com/resizer/5NBHuOSMGj7jK8u89XbFhVOQjNA=/arc-photo-metroworldnews/arc2-prod/public/F7JI7L4PHBGYTCTYISYR4QCQN4.png",
+        "schemaDescription": "O site que inspira a New Woman: notícias, horóscopo, beleza, moda, entretenimento, casais e muito mais.",
+        "schemaPhone": "+551135288500",
+        "schemaAddress": "Rua Tabapuã 41, São Paulo",
+        "schemaPostalCode": "04533010",
+        "schemaCountry": "BR"
+      },
+      "styleProperties": {
+        "primary-color": "#4abfbf"
+      }
+    },
+    "sabrosia": {
+      "siteProperties": {
+        "websiteDomain": "https://www.sabrosia.pr",
+        "websiteName": "Sabrosia",
+        "primaryLogoAlt": "Sabrosia",
+        "facebookPage": "https://www.facebook.com/sabrosiapr",
+        "twitterUsername": "Metro_PR",
+        "fbPages": "1965532620349508",
+        "primaryLogo": "resources/dist/sabrosia/img/sabrosia_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/sabrosia/img/sabrosia_light-bg.svg",
+        "primaryColor": "#3A2F25",
+        "firstImpressionId": "",
+        "gtmID": "GTM-KVWW32Z",
+        "dataIo" : "42753",
+        "websiteAdPath": "PRI/Sabrosia",
+        "pushNotificationBlogId" : "publimetro_sbpr",
+        "resizerURL": "https://www.sabrosia.pr/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Puerto_Rico"
+        },
+        "gtmAmp": "GTM-5D7WFFJ",
+        "dfpSections": ["/recetas","/actualidad","/apoyo-local","/en-la-barra","/comercial","/comida-saludable"],
+        "dfpId": "59391304",
+        "adsAmp" :{
+          "amp_carpet" : "/AMP-Carpet",
+          "amp_sticky" : "/AMP-Sticky",
+          "amp_1" : "/300x250_1",
+          "amp_2" : "/300x250_2",
+          "amp_3" : "/300x250_3",
+          "amp_top" : "/Top",
+          "amp_teads" : "",
+          "amp_firstimpression" : "8032",
+          "adsense_client" : "ca-pub-9077310428872672",
+          "amp_taboola":""
+        },
+        "schemaLogo": "https://www.sabrosia.pr/resizer/Pa8Tpizz0NAOQoMq9QRMIQsYN-Q=/arc-photo-metroworldnews/arc2-prod/public/3GUJIKTE35AP3CCVM5CYBV5YFY.png",
+        "schemaDescription": "Cualquiera puede cocinar.",
+        "schemaPhone": "(787)705-0920",
+        "schemaAddress": "Suite 305 Edificio Administración de Terrenos Ave. Chardón #171 San Juan, Puerto Rico 00918",
+        "schemaPostalCode": "00970-1187",
+        "schemaCountry": "PR"
+      },
+      "styleProperties": {
+        "primary-color": "#3A2F25"
+      }
+    },
+    "mwnguatemala": {
+      "siteProperties": {
+        "websiteDomain": "https://www.publinews.gt",
+        "websiteName": "Publinews",
+        "primaryLogoAlt": "Publinews",
+        "facebookPage": "https://www.facebook.com/publinewsguatemala",
+        "twitterUsername": "PublinewsGT",
+        "fbPages": "188250931215252",
+        "primaryLogo": "resources/dist/mwnguatemala/img/publinews_dark-bg.svg",
+        "lightBackgroundLogo": "resources/dist/mwnguatemala/img/publinews_light-bg.svg",
+        "firstImpressionId": "",
+        "gtmID": "",
+        "dataIo": "",
+        "websiteAdPath": "",
+        "pushNotificationBlogId" : "publimetro_gt",
+        "resizerURL": "https://metroworldnews-mwnguatemala-prod.cdn.arcpublishing.com/resizer",
+        "dateLocalization": {
+          "timeZone": "America/Guatemala"
+        },
+        "gtmAmp": "",
+        "dfpSections": [],
+        "dfpId": "",
+        "schemaLogo": "",
+        "schemaDescription": "",
+        "schemaPhone": "",
+        "schemaAddress": "",
+        "schemaPostalCode": "",
+        "schemaCountry": ""
+      }
+    },
+    "emisorasunidas": {
+        "siteProperties": {
+          "websiteDomain": "https://www.emisorasunidas.com",
+          "websiteName": "Emisoras Unidas",
+          "primaryLogoAlt": "Emisoras Unidas",
+          "facebookPage": "https://www.facebook.com/emisorasunidas",
+          "twitterUsername": "emisorasunidas",
+          "fbPages": "368104433442",
+          "primaryLogo": "resources/dist/emisorasunidas/img/emisorasunidas_light-bg.png",
+          "lightBackgroundLogo": "resources/dist/emisorasunidas/img/emisorasunidas_dark-bg.png",
+          "primaryColor": "#fbdc00",
+          "firstImpressionId": "",
+          "gtmID": "",
+          "dataIo": "",
+          "websiteAdPath": "",
+          "pushNotificationBlogId" : "emisoras",
+          "resizerURL": "https://metroworldnews-emisorasunidas-prod.cdn.arcpublishing.com/resizer",
+          "dateLocalization": {
+            "timeZone": "America/Guatemala"
+          },
+          "gtmAmp": "",
+          "dfpSections": [],
+          "dfpId": "",
+          "schemaLogo": "",
+          "schemaDescription": "",
+          "schemaPhone": "",
+          "schemaAddress": "",
+          "schemaPostalCode": "",
+          "schemaCountry": ""
+        },
+        "styleProperties": {
+          "primary-color": "#fbdc00"
+        }
+    },
+    "latronadora": {
+        "siteProperties": {
+          "websiteDomain": "https://www.latronadora.com",
+          "websiteName": "La Tronadora",
+          "primaryLogoAlt": "La Tronadora",
+          "facebookPage": "https://www.facebook.com/latronadoragt/",
+          "twitterUsername": "latronadoragt",
+          "fbPages": "347500639264561",
+          "primaryLogo": "resources/dist/latronadora/img/latronadora_color.png",
+          "lightBackgroundLogo": "resources/dist/latronadora/img/latronadora_color.png",
+          "primaryColor": "#fbc000",
+          "firstImpressionId": "",
+          "gtmID": "",
+          "dataIo": "",
+          "websiteAdPath": "",
+          "pushNotificationBlogId" : "tronadora",
+          "resizerURL": "https://metroworldnews-latronadora-prod.cdn.arcpublishing.com/resizer",
+          "dateLocalization": {
+            "timeZone": "America/Guatemala"
+          },
+          "gtmAmp": "",
+          "dfpSections": [],
+          "dfpId": "",
+          "schemaLogo": "",
+          "schemaDescription": "",
+          "schemaPhone": "",
+          "schemaAddress": "",
+          "schemaPostalCode": "",
+          "schemaCountry": ""
+        },
+        "styleProperties": {
+          "primary-color": "#fbc000"
+        }
+    }
+  }
+}
+
