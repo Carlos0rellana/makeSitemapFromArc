@@ -1,7 +1,7 @@
 <?php
     ini_set('memory_limit', '-1');
-    require_once ROOT_DIR.'/models/getDataFromArc.php';
-    require_once ROOT_DIR.'/controllers/genericFunctions.php';
+    require ROOT_DIR.'/models/getDataFromArc.php';
+    require ROOT_DIR.'/controllers/genericFunctions.php';
 
     $siteList = json_decode(file_get_contents(ROOT_DIR.'/db/blocks.json'),true);
 
