@@ -1,7 +1,8 @@
 <?php
-    var_dump($argv);
+    //var_dump($argv);
     parse_str($argv[1], $params);
     parse_str($argv[2], $params);
+    var_dump($params);
     define('ROOT_DIR', dirname(__FILE__,2));
     require_once ROOT_DIR.'/controllers/getDataArc.php';
     if(isset($_GET["start"]) && isset($_GET["site"])){
