@@ -8,8 +8,6 @@
     if(count($argv)>1){
         parse_str($argv[1], $site);
         parse_str($argv[2], $date);
-        var_dump($site);
-        var_dump($date);
         autoBucle($site["site"],$date["start"]);
     }
 ?>
