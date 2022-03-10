@@ -36,14 +36,14 @@
 
     function timeCount($sec){
         switch ($sec) {
-            case $sec>60:
-                $sec = ($sec/60).'min';
-                break;
-            case $sec>3600:
-                $sec = ($sec/3600).'hrs';
-                break;
             case $sec>86400:
                 $sec = ($sec/86400).'días';
+                break;
+            case $sec>3600:
+                    $sec = ($sec/3600).'hrs';
+                    break;
+            case $sec>60:
+                $sec = ($sec/60).'min';
                 break;
         }
         return $sec;

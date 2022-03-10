@@ -1,0 +1,11 @@
+<?php
+
+$pass  ='ingrese acá el valor dado por ARC';
+$apiUrl='ingrese acá la ruta de su api site (agregue el / final)';
+
+$servername = "ip o nombre del servidor de la base de datos";
+$database = "ingresa aca el nombre de la base de datos";
+$username = "el usuario de la base de datos";
+$password = "la clave del usuario de la base de datos";
+
+?>

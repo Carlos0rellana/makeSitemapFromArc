@@ -37,21 +37,34 @@
 
     function autoBucle($site,$start){
         $startTime = microtime(true);
-        $fileUrl = ROOT_DIR.'/sitemaps/'.$site.'/';
-        if(is_dir($fileUrl)){
-            $listOfFiles = array_diff(scandir($fileUrl,1),['.','..','index.php','sitemap-index.xml']);
-            if(count($listOfFiles)>0){
-                $start = date('Y-m',strtotime(substr(reset($listOfFiles),0,7).'-01 + 1 month'));
+        $fileLogUrl = ROOT_DIR.'/logs/';
+        $today = strtotime("now");
+        if(is_dir($fileLogUrl) && file_exists($fileLogUrl.$site.'.json')){
+            $lastMonth= json_decode(file_get_contents($fileLogUrl.$site.'.json'),true);
+            if(count($lastMonth)>0){
+                $newDate=true;
+                foreach ($lastMonth as $key => $value) {
+                    $lastUpdate =$value['lastUpdate'];
+                    $lastUpdate= strtotime($lastUpdate);
+                    if(($today - $lastUpdate) >= 604800){
+                        $newDate = false;
+                        $start = date('Y-m',strtotime($key.'-01'));
+                        break;
+                    }
+                }
+                if($newDate){
+                    $lastMonth=array_keys($lastMonth);
+                    $lastMonth=end($lastMonth);
+                    $start = date('Y-m',strtotime($lastMonth.'-01 + 1 month'));
+                }
             }
         }
         $year  = date('Y',strtotime($start));
         $month = date('m',strtotime($start));
         makeXmlByMonth($site,$year,$month);
         $time_elapsed_secs = microtime(true) - $startTime;
-        print_r('mes-año consultado =>'.$year.'-'.$month.'<======>'.timeCount($time_elapsed_secs).' <= tiempo de autobucle.<br>');
+        print_r('Año-mes consultado =>'.$year.'-'.$month.'<======>'.timeCount($time_elapsed_secs).' <= tiempo de autobucle.<br>');
     }
-
-
     function makeASitemapIndex($fileUrl,$site){
         if(is_dir($fileUrl.'sitemap-index.xml')){
             $xmlIndex = file_get_contents($fileUrl.'sitemap-index.xml');
@@ -80,16 +93,20 @@
         $yearMonth=$year.'-'.$month;
         $today = date('Y-m-d');
         $fileUrl = ROOT_DIR.'/sitemaps/'.$site.'/';
+        $jsonLogUrl = ROOT_DIR.'/logs/';
+        $tempContent = '';
         if(!is_dir($fileUrl)){
             mkdir($fileUrl,0755,true);
         }
-        if(!is_dir($fileUrl.'index.php')){
-            writeFile($fileUrl.'index.php','<?php echo("A veces una hoja en blanco es la seguridad del alma."); ?>','w+');
+        if(!is_dir($jsonLogUrl)){
+            mkdir($jsonLogUrl,0755,true);
+        }
+        if(!file_exists($fileUrl.'index.php')){
+            writeFile($fileUrl."index.php","<?php echo(file_get_contents('".$jsonLogUrl.$site.".json')); ?>","w+");
         }
         
         $lastDay = getLastDayMonth($yearMonth);
         if( date($yearMonth) < $today){
-            $tempContent = '';
             for ($i=$lastDay; $i > 0 ; $i--) { 
                 $day = $i<10 ? '0'.$i:$i;
                 if(date($yearMonth.'-'.$day) < $today){
@@ -104,19 +121,37 @@
                     }
                 }
             }
+           
             if(strlen($tempContent)>0){
                 $header='<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">';
                 $footer='</urlset>'; 
                 writeFile($fileUrl.$yearMonth.'.xml',$header.$tempContent.$footer,'w+');
                 $time_elapsed_secs = microtime(true) - $startTime;
                 makeASitemapIndex($fileUrl,$site);
-                return true;
             }
-            return false;
         }
-        $time_elapsed_secs = microtime(true) - $startTime;
-        print_r(timeCount($time_elapsed_secs).' <= tiempo de ejecución funcion sin pasar if.<br>');
-        return null;
+        $time = timeCount(microtime(true) - $startTime);
+        checkUpdateLogs($jsonLogUrl,$site,$time,$tempContent,$yearMonth);
+    }
+
+    function checkUpdateLogs($jsonLogUrl,$site,$time,$tempContent,$yearMonth){
+        $jsonData = array();
+        $jsonData[$yearMonth] = array();
+
+        if(file_exists($jsonLogUrl.$site.'.json')){
+            $allMonths= json_decode(file_get_contents($jsonLogUrl.$site.'.json'),true);
+        }else{
+            $allMonths= array();
+        }
+        $jsonData[$yearMonth]['lastUpdate']=date('Y-m-d H:i:s');
+        $jsonData[$yearMonth]['qtyStories']=(strlen($tempContent)>0)?substr_count($tempContent,"<loc>"):0;
+        $jsonData[$yearMonth]['timeQuerie']=$time;
+        if(!array_key_exists($yearMonth,$jsonData)){
+            array_push($allMonths,$jsonData);
+        }else{
+            $allMonths[$yearMonth]=$jsonData[$yearMonth];
+        }
+        writeFile($jsonLogUrl.$site.'.json',json_encode($allMonths),'w+');
     }
 
     function makeXmlArticleData($site,$article,$config=false){

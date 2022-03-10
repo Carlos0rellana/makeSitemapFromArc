@@ -1,7 +1,11 @@
 .DS_Store
 Thumbs.db
-/config/
-/logs/
+/config/*
+/logs/*
+/sitemaps/*
 
 # exepciones de archivos
 !/config/dataConection.php_example
+!/config/index.php
+!/logs/index.php
+!/sitemaps/index.php
