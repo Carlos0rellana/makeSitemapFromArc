@@ -59,12 +59,15 @@
                 }
             }
         }
-        $year  = date('Y',strtotime($start));
-        $month = date('m',strtotime($start));
-        makeXmlByMonth($site,$year,$month);
-        $time_elapsed_secs = microtime(true) - $startTime;
-        print_r('Año-mes consultado =>'.$year.'-'.$month.'<======>'.timeCount($time_elapsed_secs).' <= tiempo de autobucle.<br>');
+        if($today > strtotime($start)){
+            $year  = date('Y',strtotime($start));
+            $month = date('m',strtotime($start));
+            makeXmlByMonth($site,$year,$month);
+            $time_elapsed_secs = microtime(true) - $startTime;
+            print_r('Sitio  => '.$site.' || Año-mes consultado =>'.$year.'-'.$month.' || tiempo de autobucle => '.timeCount($time_elapsed_secs));
+        }
     }
+
     function makeASitemapIndex($fileUrl,$site){
         if(is_dir($fileUrl.'sitemap-index.xml')){
             $xmlIndex = file_get_contents($fileUrl.'sitemap-index.xml');
