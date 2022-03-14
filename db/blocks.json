@@ -58,7 +58,7 @@
     "mwnbrasil": {
       "siteProperties": {
         "websiteDomain": "https://www.metroworldnews.com.br",
-        "sitemapUrl": "sitemap.metroworldnews.com.br",
+        "sitemapUrl": "https://sitemap.metroworldnews.com.br",
         "websiteName": "Metro World News Brasil",
         "primaryLogoAlt": "Metro World News Brasil",
         "facebookPage": "https://www.facebook.com/metrojornal",
@@ -108,7 +108,7 @@
     "mwnchile": {
       "siteProperties": {
         "websiteDomain": "https://www.publimetro.cl",
-        "sitemapUrl": "sitemap.publimetro.cl",
+        "sitemapUrl": "https://sitemap.publimetro.cl",
         "websiteName": "Publimetro Chile",
         "primaryLogoAlt": "Publimetro Chile",
         "facebookPage": "https://www.facebook.com/publimetro",
@@ -153,7 +153,7 @@
     "mwncolombia": {
       "siteProperties": {
         "websiteDomain": "https://www.publimetro.co",
-        "sitemapUrl": "sitemap.publimetro.co",
+        "sitemapUrl": "https://sitemap.publimetro.co",
         "websiteName": "Publimetro Colombia",
         "primaryLogoAlt": "Publimetro Colombia",
         "facebookPage": "https://www.facebook.com/publimetrocolombia",
@@ -197,7 +197,7 @@
     "mwnecuador": {
       "siteProperties": {
         "websiteDomain": "https://www.metroecuador.com.ec",
-        "sitemapUrl": "sitemap.metroecuador.com.ec",
+        "sitemapUrl": "https://sitemap.metroecuador.com.ec",
         "websiteName": "Metro Ecuador",
         "primaryLogoAlt": "Metro Ecuador",
         "facebookPage": "https://www.facebook.com/diariometroecuador",
@@ -241,7 +241,7 @@
     "mwnmexico": {
       "siteProperties": {
         "websiteDomain": "https://www.publimetro.com.mx",
-        "sitemapUrl": "sitemap.publimetro.com.mx",
+        "sitemapUrl": "https://sitemap.publimetro.com.mx",
         "websiteName": "Publimetro México",
         "primaryLogoAlt": "Publimetro México",
         "facebookPage": "https://www.facebook.com/publimetromx",
@@ -286,7 +286,7 @@
     "mwnperu": {
       "siteProperties": {
         "websiteDomain": "https://www.publimetro.pe",
-        "sitemapUrl": "sitemap.publimetro.pe",
+        "sitemapUrl": "https://sitemap.publimetro.pe",
         "websiteName": "Publimetro Perú",
         "primaryLogoAlt": "Publimetro Perú",
         "facebookPage": "https://www.facebook.com/publimetrope",
@@ -330,7 +330,7 @@
     "mwnpuertorico": {
       "siteProperties": {
         "websiteDomain": "https://www.metro.pr",
-        "sitemapUrl": "sitemap.metro.pr",
+        "sitemapUrl": "https://sitemap.metro.pr",
         "websiteName": "Metro Puerto Rico",
         "primaryLogoAlt": "Metro Puerto Rico",
         "facebookPage": "https://www.facebook.com/MetroPR",
@@ -374,7 +374,7 @@
     "activo": {
       "siteProperties": {
         "websiteDomain": "https://www.activopr.com",
-        "sitemapUrl": "sitemap.activopr.com",
+        "sitemapUrl": "https://sitemap.activopr.com",
         "websiteName": "Activo",
         "primaryLogoAlt": "Activo",
         "facebookPage": "https://www.facebook.com/ActivoPR",
@@ -421,7 +421,7 @@
     "comutricolor": {
       "siteProperties": {
         "websiteDomain": "https://www.comutricolor.com",
-        "sitemapUrl": "sitemap.comutricolor.com",
+        "sitemapUrl": "https://sitemap.comutricolor.com",
         "websiteName": "ComuTricolor",
         "primaryLogoAlt": "ComuTricolor",
         "facebookPage": "https://www.facebook.com/Comutricolorco",
@@ -465,7 +465,7 @@
     "elcalce": {
       "siteProperties": {
         "websiteDomain": "https://www.elcalce.com",
-        "sitemapUrl": "sitemap.elcalce.com",
+        "sitemapUrl": "https://sitemap.elcalce.com",
         "websiteName": "El Calce",
         "primaryLogoAlt": "El Calce",
         "facebookPage": "https://www.facebook.com/ElCalce?fref=ts",
@@ -512,7 +512,7 @@
     "fayerwayer": {
       "siteProperties": {
         "websiteDomain": "https://www.fayerwayer.com",
-        "sitemapUrl": "sitemap.fayerwayer.com",
+        "sitemapUrl": "https://sitemap.fayerwayer.com",
         "websiteName": "FayerWayer",
         "primaryLogoAlt": "FayerWayer",
         "facebookPage": "https://www.facebook.com/fayerwayer",
@@ -557,7 +557,7 @@
     "ferplei": {
       "siteProperties": {
         "websiteDomain": "https://ferplei.com",
-        "sitemapUrl": "sitemap.ferplei.com",
+        "sitemapUrl": "https://sitemap.ferplei.com",
         "websiteName": "Ferplei",
         "primaryLogoAlt": "Ferplei",
         "facebookPage": "https://www.facebook.com/ferplei",
@@ -600,7 +600,7 @@
     "nuevamujer": {
       "siteProperties": {
         "websiteDomain": "https://www.nuevamujer.com",
-        "sitemapUrl": "sitemap.nuevamujer.com",
+        "sitemapUrl": "https://sitemap.nuevamujer.com",
         "websiteName": "Nueva Mujer",
         "primaryLogoAlt": "Nueva Mujer",
         "facebookPage": "https://www.facebook.com/nuevamujerlatam",
@@ -644,7 +644,7 @@
     "novamulher": {
       "siteProperties": {
         "websiteDomain": "https://www.novamulher.com",
-        "sitemapUrl": "sitemap.novamulher.com",
+        "sitemapUrl": "https://sitemap.novamulher.com",
         "websiteName": "Nova Mulher",
         "primaryLogoAlt": "Nova Mulher",
         "facebookPage": "https://www.facebook.com/novamulher.br",
@@ -697,7 +697,7 @@
     "sabrosia": {
       "siteProperties": {
         "websiteDomain": "https://www.sabrosia.pr",
-        "sitemapUrl": "sitemap.sabrosia.pr",
+        "sitemapUrl": "https://sitemap.sabrosia.pr",
         "websiteName": "Sabrosia",
         "primaryLogoAlt": "Sabrosia",
         "facebookPage": "https://www.facebook.com/sabrosiapr",
@@ -744,7 +744,7 @@
     "mwnguatemala": {
       "siteProperties": {
         "websiteDomain": "https://www.publinews.gt",
-        "sitemapUrl": "sitemap.publinews.gt",
+        "sitemapUrl": "https://sitemap.publinews.gt",
         "websiteName": "Publinews",
         "primaryLogoAlt": "Publinews",
         "facebookPage": "https://www.facebook.com/publinewsguatemala",
@@ -775,7 +775,7 @@
     "emisorasunidas": {
         "siteProperties": {
           "websiteDomain": "https://www.emisorasunidas.com",
-          "sitemapUrl": "sitemap.emisorasunidas.com",
+          "sitemapUrl": "https://sitemap.emisorasunidas.com",
           "websiteName": "Emisoras Unidas",
           "primaryLogoAlt": "Emisoras Unidas",
           "facebookPage": "https://www.facebook.com/emisorasunidas",
@@ -810,7 +810,7 @@
     "latronadora": {
         "siteProperties": {
           "websiteDomain": "https://www.latronadora.com",
-          "sitemapUrl": "sitemap.latronadora.com",
+          "sitemapUrl": "https://sitemap.latronadora.com",
           "websiteName": "La Tronadora",
           "primaryLogoAlt": "La Tronadora",
           "facebookPage": "https://www.facebook.com/latronadoragt/",
