@@ -80,14 +80,16 @@
         global $siteList;
         $listFiles = array_diff(scandir($fileUrl,1),['.','..','index.php','sitemap-index.xml']);
         $urlBase = $siteList['urlBase'];
+        $arcDomain = $siteList['sites'][$site]['siteProperties']['websiteDomain'];
         $xmlEncode = '<?xml version="1.0" encoding="UTF-8"?>';
         $xmlStart  = '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+        $xmlLastest= '<sitemap><loc>'.$arcDomain.'/arc/outboundfeeds/sitemap/latest/?outputType=xml</loc></sitemap>';
         $xmlEnd    = '</sitemapindex>';
         $xmlContent   = '';
         foreach ($listFiles as $key => $value) {
             $xmlContent .= '<sitemap><loc>'.$urlBase.'/sitemaps/'.$site.'/'.$value.'</loc></sitemap>';
         }
-        $xmlFull = $xmlEncode.$xmlStart.$xmlContent.$xmlEnd;
+        $xmlFull = $xmlEncode.$xmlStart.$xmlLastest.$xmlContent.$xmlEnd;
         writeFile($fileUrl.'sitemap-index.xml',$xmlFull,'w+');      
     }
 
