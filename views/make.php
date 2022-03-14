@@ -6,7 +6,7 @@
         if($_GET["make"]==='sitemapIndex'){
             $site = $_GET["site"];
             $fileUrl = ROOT_DIR.'/sitemaps/'.$site.'/';
-            makeASitemapIndex($fileUrl,$site);
+            print_r(makeASitemapIndex($fileUrl,$site));
         }
     }
 ?>

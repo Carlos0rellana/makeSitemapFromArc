@@ -90,7 +90,8 @@
             $xmlContent .= '<sitemap><loc>'.$sitemapDomain.'/sitemaps/'.$site.'/'.$value.'</loc></sitemap>';
         }
         $xmlFull = $xmlEncode.$xmlStart.$xmlLastest.$xmlContent.$xmlEnd;
-        writeFile($fileUrl.'sitemap-index.xml',$xmlFull,'w+');      
+        writeFile($fileUrl.'sitemap-index.xml',$xmlFull,'w+');
+        return $xmlFull;     
     }
 
     function makeXmlByMonth($site,$year,$month){
